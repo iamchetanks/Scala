@@ -9,4 +9,4 @@ Creating Jar\
 running jar\
   sbt run\
   or\
-  scala 'jarfile'\
+  scala 'jarfile'
