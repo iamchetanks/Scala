@@ -1,7 +1,11 @@
-[0m[[0m[0minfo[0m] [0m[0mPackaging E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\retail\target\scala-2.12\retail_2.12-1.0.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\Scala-demo-project\retail\target\scala-2.12\retail_2.12-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DynammicOrderRevenue$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\Scala-demo-project\retail\target\scala-2.12\classes\DynammicOrderRevenue$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DynammicOrderRevenue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\Scala-demo-project\retail\target\scala-2.12\classes\DynammicOrderRevenue.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\retail\target\scala-2.12\classes\OrderRevenue$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\Scala-demo-project\retail\target\scala-2.12\classes\OrderRevenue$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\retail\target\scala-2.12\classes\OrderRevenue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Google_drive_personal\chetan\winter_break_2017\spark_and_hadoop_udemy\code\scalademo\Scala-demo-project\retail\target\scala-2.12\classes\OrderRevenue.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
